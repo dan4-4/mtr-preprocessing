@@ -1,0 +1,18 @@
+# Local secrets
+.env.local
+.env
+api_нейрошлюз.ipynb
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Generated pipeline output (reproduced by run_pipeline.py)
+output/
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
